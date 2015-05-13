@@ -2,6 +2,7 @@
 -- Theme author: Wimer Hazenberg (http://www.monokai.nl)
 -- Base16 (https://github.com/chriskempson/base16)
 -- Build with Base16 Builder (https://github.com/chriskempson/base16-builder)
+-- fork https://github.com/rgieseke/textadept-themes.git
 -- Repository: https://github.com/chanble/ta-theme-monokai.git
 
 local buffer = buffer
